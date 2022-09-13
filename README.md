@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My Name is Jeff, welcome to my github
+
+- 🔭 I’m currently spneding most of my time on arcade problems on codesignal, <a href="https://app.codesignal.com/profile/jiffylube">check out my progress!</a>
+- 💬 Ask me about anything shipping related, I have been in the industry for over 6 years
+- ⚡ Fun fact: I have been told that my eyes sometimes open when I sleep. This is probably why I have dry eyes!
+
 <!--
 **jiffylube/jiffylube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
